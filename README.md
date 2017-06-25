@@ -197,7 +197,12 @@ http://www.clinicaltherapeutics.com/issue/S0149-2918(17)X0008-8
 - doseme.com.au tdmx.eu insight-rx.com 
 - <http://wapps-hemo.org>
 
-### Hepatic disposition of [11C]erlotinib at micro- and therapeutic doses assessed with pet imaging Martin Bauer1, Akihiro Matsuda1, Beatrix Wulkersdorfer1, Cecile Philippe1, Lukas Nics1, Eva-Maria Klebermass1, Johann Stanek1, Wolfgang Wadsak1,2, Marcus Hacker1, Markus Zeitlinger1
+### Hepatic disposition of [11C]erlotinib at micro- and therapeutic doses assessed with pet imaging 
+
+> uptake of a microdose of [11C]erlotinib occurred via a carrier-mediated process
+
+
+Martin Bauer1, Akihiro Matsuda1, Beatrix Wulkersdorfer1, Cecile Philippe1, Lukas Nics1, Eva-Maria Klebermass1, Johann Stanek1, Wolfgang Wadsak1,2, Marcus Hacker1, Markus Zeitlinger1
 Medical University of Vienna, Austria
 Centre for Biomarker Research in Medicine - CBmed GmbH, Graz, Austria
 AIT Austrian Institute of Technology GmbH, Seibersdorf, Austria
@@ -214,7 +219,11 @@ During the PET scans only a low amount (<5%) of radiolabelled metabolites of [11
 ConclusionsGo
 Our data show that liver uptake of a microdose of [11C]erlotinib occurred via a carrier-mediated process, which became inhibited at therapeutic erlotinib doses. Active uptake transport of erlotinib into the liver may account for variability in plasma PK and potentially play a role in transporter-mediated drug interactions.
 
-### Characterization of absorption, metabolism, and elimination of Niraparib, an investigational poly (ADP-ribose) polymerase inhibitor, in cancer patients Zhi-Yi Zhang1, Vikram Kansra1, Lotte van Andel2, Matthijs Tibben2, Hilde Rosing2, Sharon Lu1, Shefali Agarwal1, Lorraine Hughes1, Jan H. M. Schellens3,4, Jos H. Beijnen2,4
+### Characterization of absorption, metabolism, and elimination of Niraparib, an investigational poly (ADP-ribose) polymerase inhibitor, in cancer patients
+
+> niraparib 의 PK를 밝혀냄. 
+
+Zhi-Yi Zhang1, Vikram Kansra1, Lotte van Andel2, Matthijs Tibben2, Hilde Rosing2, Sharon Lu1, Shefali Agarwal1, Lorraine Hughes1, Jan H. M. Schellens3,4, Jos H. Beijnen2,4
 TESARO Inc, Waltham, USA
 Antoni van Leeuwenhoek/The Netherlands Cancer Institute and MC Slotervaart, Amsterdam, The Netherlands
 The Netherlands Cancer Institute, Amsterdam, The Netherlands
@@ -223,7 +232,7 @@ Utrecht University, The Netherlands
 BackgroundGo
 Niraparib is an investigational oral, once daily, selective poly (adenosine diphosphate [ADP] ribose) polymerase (PARP)-1 and PARP-2 inhibitor. In the pivotal phase 3 ENGOT-OV16/NOVA study, niraparib met its primary endpoint of improving progression-free survival (PFS) in adult patients with recurrent ovarian, fallopian tube, or primary peritoneal cancer who achieved complete or partial response to platinum-based chemotherapy. Significant improvements in PFS were seen in all patient cohorts regardless of biomarker status (i.e., germline BRCA mutation and homologous recombination deficiency). Here, we present the absorption, metabolism, and elimination of niraparib, assessed in a dedicated clinical study (PR-30-5015-C).
 
-MethodsGo
+Methods
 Both cold and 14C-labeled niraparib were used to first determine its oral bioavailability, followed by evaluating its metabolic profile and mass balance (6 patients/study). High performance liquid chromatography-tandem mass spectrometry (LC/MS/MS) and radioactive detection methods were used to quantify niraparib and its major metabolites. LC/MS/MS and LC-high resolution MS were used to elucidate the structure of metabolites.
 
 ResultsGo
@@ -232,7 +241,11 @@ Niraparib was rapidly absorbed and highly bioavailable (73%) in humans. Metaboli
 ConclusionsGo
 The high bioavailability and long terminal half-life of niraparib may explain in part its anticancer activity and efficacy in treating ovarian cancer in the ENGOT-OV16/NOVA trial.
 
-### Pharmacokinetics and pharmacodynamics of Elobixibat, a novel ileal bile acid transporter inhibitor Yuji Kumagai1, Hideki Amano1, Yoshinobu Sasaki1, Chie Nakagawa1, Mika Maeda1, Ichiro Oikawa2, Hidetoshi Furuie3
+### Pharmacokinetics and pharmacodynamics of Elobixibat, a novel ileal bile acid transporter inhibitor 
+
+> IBAT을 억제. 변비의 치료. 
+
+Yuji Kumagai1, Hideki Amano1, Yoshinobu Sasaki1, Chie Nakagawa1, Mika Maeda1, Ichiro Oikawa2, Hidetoshi Furuie3
 Kitasato University Hospital, Kanagawa, Japan
 EA Pharma Co., Ltd., Tokyo, Japan
 Osaka Pharmacology Clinical Research Hospital, Japan
