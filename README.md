@@ -45,11 +45,10 @@ http://www.clinicaltherapeutics.com/issue/S0149-2918(17)X0008-8
 
 ## PLENARY SESSION: "Adverse drug reactions – state of the art in 2017", 2017-06-24
 
-- chairs: Tabassome Simon, Gonzalo Calvo
-- speaker: June Raine, Medicines and Healthcare Products Regulatory Agency, European Medicines Agency, UK
-
 > ADR (Adverse Drug Reactions)에 대한 현재의 이해, 그리고 앞으로의 연구방향에 대해 진단하였습니다. Pharmacovigilance의 중요성. ADR의 연구와 활용에 많은 도전과 어려운 점이 있습니다.
 
+- chairs: Tabassome Simon, Gonzalo Calvo
+- speaker: June Raine, Medicines and Healthcare Products Regulatory Agency, European Medicines Agency, UK
 - PRIME - 유럽, FDA - Breakthrough Therapy
 - Pharmacovigilance의 중요성
 - 'Detection, assessment, understanding and prevention of adverse effects or related problems'
@@ -85,7 +84,6 @@ http://www.clinicaltherapeutics.com/issue/S0149-2918(17)X0008-8
 
 - chairs: Tabassome Simon, Ylva Böttiger
 - speaker: Pertti J. Neuvonen, University of Helsinki, Finland
-
 - Gemfibrozil - statins by inhibiting CYP2C8 enzyme in vivo (even in small doses < 100 mg)
 - Tizanidine - centrally acting m. relaxant - clonidine like alpha2-adrenoceptor agonist
 	- >20 years - clinical use
@@ -94,6 +92,7 @@ http://www.clinicaltherapeutics.com/issue/S0149-2918(17)X0008-8
 - Clopidogrel + which statin? - what's the best?
 
 ### How to write a paper, 2017-06-25
+
 > 논문을 잘 쓰기 위해 알아두어야 할 기본적인 내용과 저자가 주의해야 할 점에 대해 공유하는 시간이었습니다.
 
 - speaker: Elsevier publisher
@@ -117,6 +116,7 @@ http://www.clinicaltherapeutics.com/issue/S0149-2918(17)X0008-8
 - How to deal with IS
 
 ### TDM and pharmacogenetics in transplantation: What does the evidence say? (30 min.) 
+
 > TDM은 좋아. CYP3A5 -> Tac dose requirement, donor CYP3A5 -> intrarenal tacrolimus metabolism
 
 - speaker: Teun van Gelder, Erasmus Medical Center, The Netherlandsi
@@ -128,6 +128,7 @@ http://www.clinicaltherapeutics.com/issue/S0149-2918(17)X0008-8
 - CYP3A5 (+) -> higher Tac needed. / (-) not need high dose of Tac.
 
 ### Effect of CYP3A4*22, CYP3A5*3, POR*28, and PPARA RS4253728 on tacrolimus exposure and neurotoxicity in kidney transplant recipients 
+
 > Tac의 부작용으로 진전과 두통이 있는데 SNP의 변화가 이것을 유발하지는 않았다.
 
 - speaker: Jean-Baptiste Woillard1, Nicolas Picard1, Marie Essig1, Pierre Merville2, Caroline Monchaud1, Pierre Marquet1 (CHU Limoges; Univ Limoges, France CHU Bordeaux, France)
@@ -156,6 +157,7 @@ http://www.clinicaltherapeutics.com/issue/S0149-2918(17)X0008-8
 - Chairs: Jaroslav Chladek, Charles University, Czech Republic Janne Backman, University of Helsinki, Finland
 
 ### Recent advances in developmental pharmacokinetics in children
+
 > Microdose of paracetamol, 가바펜틴의 모델링 (GAPP, GAbapentin in Pediatric Pain)
 
 - speaker: Saskia de Wildt (Radboud University, The Netherlands)
@@ -166,6 +168,7 @@ http://www.clinicaltherapeutics.com/issue/S0149-2918(17)X0008-8
 - Towards optimal individualized dosing
 
 ### Complex drug-drug interactions: Mechanisms and clinical relevance
+
 > 복합 약물 상호작용은 드물지 않고, 약물 농도의 예측과 디자인을 어렵게 한다.
 
 - speaker: Janne Backman, University of Helsinky, Finland
@@ -223,11 +226,7 @@ Our data show that liver uptake of a microdose of [11C]erlotinib occurred via a 
 
 > niraparib 의 PK를 밝혀냄. 
 
-Zhi-Yi Zhang1, Vikram Kansra1, Lotte van Andel2, Matthijs Tibben2, Hilde Rosing2, Sharon Lu1, Shefali Agarwal1, Lorraine Hughes1, Jan H. M. Schellens3,4, Jos H. Beijnen2,4
-TESARO Inc, Waltham, USA
-Antoni van Leeuwenhoek/The Netherlands Cancer Institute and MC Slotervaart, Amsterdam, The Netherlands
-The Netherlands Cancer Institute, Amsterdam, The Netherlands
-Utrecht University, The Netherlands
+- speaker: Zhi-Yi Zhang1, Vikram Kansra1, Lotte van Andel2, Matthijs Tibben2, Hilde Rosing2, Sharon Lu1, Shefali Agarwal1, Lorraine Hughes1, Jan H. M. Schellens3,4, Jos H. Beijnen2,4 (TESARO Inc, Waltham, USA)
 
 BackgroundGo
 Niraparib is an investigational oral, once daily, selective poly (adenosine diphosphate [ADP] ribose) polymerase (PARP)-1 and PARP-2 inhibitor. In the pivotal phase 3 ENGOT-OV16/NOVA study, niraparib met its primary endpoint of improving progression-free survival (PFS) in adult patients with recurrent ovarian, fallopian tube, or primary peritoneal cancer who achieved complete or partial response to platinum-based chemotherapy. Significant improvements in PFS were seen in all patient cohorts regardless of biomarker status (i.e., germline BRCA mutation and homologous recombination deficiency). Here, we present the absorption, metabolism, and elimination of niraparib, assessed in a dedicated clinical study (PR-30-5015-C).
@@ -262,38 +261,49 @@ Elobixibat displayed linear pharmacokinetics with very low systemic exposure. Wh
 ConclusionsGo
 Elobixibat showed a dose dependent effect in patients with chronic constipation and was well-tolerated. The effect on bowel movements correlated well with increased plasma C4 levels, a marker of its pharmacological action.
 
-15:30 to 16:00
-Exhibition Area
-COFFEE BREAK
+## ORAL COMMUNICATIONS 2
 
-16:00 to 17:00
-Room Meridian
-ORAL COMMUNICATIONS 2
-Chairs: Gerard Rongen, Dinko Vitezic
-What is the current knowledge about the cardiovascular risk for users of cannabis-based products? A systematic review Emilie Jouanjus1,2, Valentin Raymond2, Maryse Lapeyre-Mestre1,2, Valérie Wolff3
-Centre Hospitalier Universitaire, Toulouse, France
-Inserm UMR 1027, Université Toulouse III, Toulouse, France
-Centre Hospitalier Régional Universitaire, Strasbourg, France
-Multimorbidity, guidelines and polypharmacy Matthew Doogue1,2, Annabelle McGowan1,2, Murray Barclay1,2, David Jardine1,2
+- Chairs: Gerard Rongen, Dinko Vitezic
+
+### What is the current knowledge about the cardiovascular risk for users of cannabis-based products? A systematic review 
+
+> 뇌졸중에서 대마초의 위험성
+
+- speaker: Emilie Jouanjus, Valérie Wolff (Centre Hospitalier Universitaire, Toulouse, France)
+- cannabis exposure 
+- pre-clinical data - what's the mechanism? hypothesis: triggering 
+- cardiovascular risk for cannabis-based product users. Currently, this evidence is stronger for ischemic stokes 
+
+### Multimorbidity, guidelines and polypharmacy 
+
+- speaker: Matthew Doogue1,2, Annabelle McGowan1,2, Murray Barclay1,2, David Jardine1,2
+
 University of Otago, New Zealand
 Canterbury District Health Board, New Zealand
-Transition study of biosimilar infliximab in patients with inflammatory bowel disease
-Sunday 25 June
-Niels Boone, Limmie Lui, Marielle Romberg, Laurence Duijsens, Hugo van der Kuy, Rob Janknegt, Ad van Bodegraven
-Zuyderland Medical Center, The Netherlands
-Effect of high dose acetaminophen on liver function tests in healthy subjects Yuji Kumagai1,2, Ildae Song1, Mika Maeda1,2, Rieko Tanaka1, Yasutoshi Sakamoto1, Masako Aso2, Yoshiro Saito3, Kyoko Maekawa3, Tomoe Fujita1,2
+
+### Transition study of biosimilar infliximab in patients with inflammatory bowel disease
+
+>
+
+- Niels Boone, Limmie Lui, Marielle Romberg, Laurence Duijsens, Hugo van der Kuy, Rob Janknegt, Ad van Bodegraven (Zuyderland Medical Center, The Netherlands)
+- <http://www.clinicaltherapeutics.com/article/S0149-2918(17)30328-4/fulltext>
+
+### Effect of high dose acetaminophen on liver function tests in healthy subjects 
+
+- speaker: Yuji Kumagai1,2, Ildae Song1, Mika Maeda1,2, Rieko Tanaka1, Yasutoshi Sakamoto1, Masako Aso2, Yoshiro Saito3, Kyoko Maekawa3, Tomoe Fujita1,2
+
 Kitasato University, Kanagawa, Japan
 Kitasato University Hospital, Kanagawa, Japan
 National Institute of Health Sciences, Tokyo, Japan
-Drug-induced acute pancreatitis: A four-year single-centre experience Karel Urbánek, Kateřina Schillerová, Ondřej Krystyník, Jaromíra Gajdová
-Palacký University, Olomouc, Czech Republic
-Sex differences in spontaneous reports on adverse drug events for antihypertensive drugs Diana Rydberg1,2, Stefan Mejyr1,2, Desirée Loikas2,3, Karin Schenck-Gustafsson1,2, Mia von Euler1,2, Rickard Malmström1,2
-Karolinska University Hospital, Stockholm, Sweden
-Karolinska Institutet, Stockholm, Sweden
-Public Healthcare Services Committee, Stockholm County Council, Sweden
 
-16:00 to 17:00
-Room Nadir
+### Drug-induced acute pancreatitis: A four-year single-centre experience 
+
+- speaker: Karel Urbánek, Kateřina Schillerová, Ondřej Krystyník, Jaromíra Gajdová (Palacký University, Olomouc, Czech Republic)
+
+### Sex differences in spontaneous reports on adverse drug events for antihypertensive drugs 
+
+- speaker: Diana Rydberg1,2, Stefan Mejyr1,2, Desirée Loikas2,3, Karin Schenck-Gustafsson1,2, Mia von Euler1,2, Rickard Malmström1,2 (Karolinska University Hospital, Stockholm, Sweden)
+
 ORAL COMMUNICATIONS 3
 Chairs: Tabassome Simon, Matthias Schwab
 Investigating real-world Clopidogrel pharmacogenetics in stroke using a bioresource linked to electronic medical records Aleksi Tornio, Robert Flynn, Steve Morant, Elena Velten, Colin N.A. Palmer, Thomas M. MacDonald, Alex S.F. Doney
@@ -337,17 +347,20 @@ e-HEALTH
 Chairs:
 Jan Strojil, Palacky University Olomouc, Czech Republic
 Ylva Böttiger, Linkoping University, Sweden
-Speakers:
+
 Digital health technologies in hospital medicines management (30 min.)
 Jamie Coleman, University of Birmingham, UK
+
 Decision support systems for medicines – paths for the future (30 min.)
-Sunday 25 June
 Birgit Eiermann, Karolinska Institutet, Sweden
+
 Dabigatran exposure and outcomes: A PK/PD/PV study David Reith, Bryan Simpson, Natalie Medlicott, Aesha Smith
 University of Otago, New Zealand
+
 Do electronic prescribing systems in English hospitals support antimicrobial stewardship? An analysis of ‘start smart – then focus’ functionality Imun Madar1, Jamie Coleman1, Ann Slee2, Sarah Pontefract1
 University of Birmingham, United Kingdom
 NHS England, London, United Kingdom
+
 Utilisation of New Zealand primary care electronic data to guide clinical decision support system design—a retrospective cohort for Dabigatran Bryan Simpson, David Reith, Natalie Medlicott, Alesha Smith
 University of Otago, New Zealand
 
@@ -357,8 +370,8 @@ BIOMARKERS AND PRECISION MEDICINE
 Chairs:
 Jitka Patockova, Medical and Radiology Clinic Prague, Czech Republic
 Matthias Schwab, Dr. Margarete Fischer-Bosch-Institute of Clinical Pharmacology, Germany
-Speakers:
-The U-PGx Project: Implementation of pharmacogenomics in Europe (30 min.) Henk-Jan Guchelaar, Leiden University Medical Center, The Netherlands
+
+### The U-PGx Project: Implementation of pharmacogenomics in Europe (30 min.) Henk-Jan Guchelaar, Leiden University Medical Center, The Netherlands
 Predictive markers for prognosis and drug therapy in renal cancer (30 min.)
 Matthias Schwab, Dr. Margarete Fischer-Bosch-Institute of Clinical Pharmacology, Germany
 Drug transporter variants as predictors of cancer chemotherapy-induced toxicity (30 min.)
@@ -367,6 +380,8 @@ Donald Singer, EACPT, UK
 18:30 to 19:30
 Room Nadir
 EACPT ASSEMBLY
+
+
 
 ## Monday 26 June
 Monday, 26 Monday, 26 Monday, 26 Monday, 26 June
@@ -490,20 +505,39 @@ LUNCH (Exhibition Area) – GUIDED POSTER SESSION 3
 14:00 to 15:30 Room Meridian
 CARDIOVASCULAR
 Chairs: Otto Mayer, Charles University, Czech Republic Tabassome Simon, EACPT, France
-Speakers: Impact of recent advances in management of dyslipidemia on cardiovascular morbidity and mortality (30 min.) Tomas Stulc, Charles University, Czech Republic
-Antidiabetic treatment of T2DM and cardiovascular risk (30 min.) Hana Rosolova, Charles University, Czech Republic
-Causes of death in anticoagulated patients with venous thromboembolism Antonio Gómez-Outes1, Ana-Isabel Terleira-Fernández2, Ramón Lecumberri3, Gonzalo Calvo-Rojas4, Mª.Luisa Suárez-Gea1, Emilio Vargas-Castrillón2
+Speakers: 
+
+### Impact of recent advances in management of dyslipidemia on cardiovascular morbidity and mortality
+
+> 이상지질혈증의 치료
+
+- speaker: Tomas Stulc, Charles University, Czech Republic
+
+- Lowering LDL-C - primary intervention to reduce CV risk
+- Greater LDL-C reduction, the greater decrease of the risk
+- ezetimibe - moderate LDL-reduction, modest reduction of CV risk in post-MI patients, profit limited to patients with diabetes
+- PCSK9 inhibitors - reduce LDL-C by 50%, moderate reduction of CV risk
+
+## Antidiabetic treatment of T2DM and cardiovascular risk (30 min.) Hana Rosolova, Charles University, Czech Republic
+
+### Causes of death in anticoagulated patients with venous thromboembolism 
+- Antonio Gómez-Outes1, Ana-Isabel Terleira-Fernández2, Ramón Lecumberri3, Gonzalo Calvo-Rojas4, Mª.Luisa Suárez-Gea1, Emilio Vargas-Castrillón2
+
 Agencia Española de Medicamentos y Productos Sanitarios (AEMPS), Madrid, Spain
 Hospital Clínico San Carlos and Universidad Complutense, Madrid, Spain
 Clínica Universidad de Navarra, Pamplona, Spain
 Hospital Clinic, Barcelona, Spain
-On demand sildenafil as a treatment of Raynaud’s phenomenon: A series of N-of-1 trials Matthieu Roustit1,2,3, Joris Giai4,5,6, Olivier Gaget3, Myriam Mouhib3, Adrien Lotito3, Charles Khouri3, Sophie Blaise2,3, Christophe Seinturier3, Sunita Vohra7, Jean-Luc Cracowski1,2,3
+
+### On demand sildenafil as a treatment of Raynaud’s phenomenon: A series of N-of-1 trials 
+
+- Matthieu Roustit1,2,3, Joris Giai4,5,6, Olivier Gaget3, Myriam Mouhib3, Adrien Lotito3, Charles Khouri3, Sophie Blaise2,3, Christophe Seinturier3, Sunita Vohra7, Jean-Luc Cracowski1,2,3
+
 Univ. Grenoble-Alpes, France
 Inserm, HP2 UMR 1042, Grenoble, France
 CHU Grenoble-Alpes, France
 Université de Lyon, France
 CNRS, UMR5558, Villeurbanne, France
-Monday 26 June
+
 Hospices Civils de Lyon, France
 University of Alberta, Edmonton, Canada
 Modelling of outcome postponement for cardiovascular outcomes in statin trials Morten Rix Hansen1, Anton Pottegård1, Asbjørn Hróbjartsson2,3, Per Damkier1,5, René dePont Christensen1, Jesper Hallas1,2
@@ -525,57 +559,32 @@ Speakers: Opportunities and constraints to harmonize pharmacoeconomic methods ac
 HTA trends in middle and low income countries – example of CEE region (20 min.)
 Monday 26 June
 Tomas Dolezal, Institute of Health Economics and Technology Assessment Prague, Czech Republic
+
+
 Cost-effectiveness of genotype-guided warfarin dosing in the patients with mechanical heart valve replacement under fee-for-service system Dong-Jin Kim1, Ho-Sook Kim1, Minkyoung Oh1, Eun-Young Kim1,2, Jae-Gook Shin1,2
 University College of Medicine, Busan, South Korea
 University Busan Paik Hospital, Busan, South Korea
-Discussion (30 min.)
-15:30 to 16:00
-Exhibition Area
-COFFEE BREAK
-16:00 to 17:00
-Room Meridian
-PLENARY DEBATE It is difficult to successfully communicate the risk to benefit ratio of medicines to the patient
+
+## PLENARY DEBATE: It is difficult to successfully communicate the risk to benefit ratio of medicines to the patient
+
 Chairs: Caridad Pontes, Tabassome Simon
 Speakers: Pro: Rosa González-Quevedo, EMA London, UK
 Con: Mikael Hoffmann, The Swedish Society of Medicine, Sweden
 17:00 to 18:30
-Room Zenit
-ORAL COMMUNICATIONS 5
-Chairs: Milan Grundmann, Edoardo Spina
-Effect of ABCB1 inhibition at the blood-brain barrier on brain distribution of the ABCB1 substrate (r)-[11C]verapamil in elderly versus young subjects Martin Bauer1, Rudolf Karch1, Beatrix Wulkersdorfer1, Wolfgang Wadsak1, Marcus Hacker1, Markus Zeitlinger1, Oliver Langer1,2
-Medical University of Vienna, Austria
-AIT Austrian Institute of Technology GmbH, Austria
-Bioequivalence studies of highly variable drugs - an example of Itraconazole Viktorija Dragojevic-Simic1, Aleksandra Kovacevic1, Nemanja Rancic1, Vesna Jacevic1, Snezana Djordjevic1, Vesna Kilibarda1, Zoran Segrt1, Momir Mikov2
-Military Medical Academy, Belgrade, Serbia
-Institute for Pharmacology, Clinical Pharmacology and Toxicology, Medical Faculty, Novi Sad, Serbia
-Posaconazole tablets versus posaconazole oral suspension in lung transplant patients: Which consequences on immunosuppressive therapy? Elodie Gautier-Veyret1,2,3, Sebastien Chanoine1,3, Hélène Pluchart1,3, Julia Tonini3, Xavier Fonrose3, Christophe Pison1,3, Pierrick Bedouch1,3, Françoise Stanke-Labesque1,2,3
-Monday 26 June
-Univ. Grenoble Alpes, HP2, Grenoble, France
-INSERM U1042, Grenoble, France
-Centre Hospitalier Universitaire des Alpes, Grenoble, France
-Population pharmacodynamic analysis of effect of three increasing doses of fludrocortisone on phenylephrine-mean arterial pressure dose-response relationship in healthy volunteers Karima Hammas1,2, Noureddine Hamitouche1, Clément Palpacuer1,2, Fabrice Lainé1, Eric Bellissant1,2, Bruno Laviolle1,2
-Inserm, CIC 1414 Clinical Investigation Centre, Rennes, France
-Rennes University Hospital, Clinical Pharmacology, Rennes, France
-Results of the population PK modelling of rtxmb83, a rituximab biosimilar candidate in patients with diffuse large B-cell lymphoma (DLBCL) Myrna Candelari1, Derlis Gonzalez2, Marcia Torresan3, Daniel Bar4, Amalia Florez5, Alexandra Paravisini5, Francisco Fernandez5, Susana Millan5
-Instituto Nacional de Cancerología, Tlalpan, Sección XVI, Mexico DF, México
-Instituto Privado de Hematología E Investigación Clínica (IPHIC), Asunción, Paraguay
-Hemocentro da Universidade Estadual de Campinas/ UNICAMP, Campinas, São Paulo, Brazil
-Hospital Iturraspe, Santa Fe, Argentina
-Mabxience
-Evidenced based drug-drug interaction alerts in an e-prescribing system Matthew Doogue1,2, Amanda Crawford1, Hayleigh Miller1, Philip Drennan2, QianYi Chuah2, Matthew Strother1,2, Paul Chin1,2
-University of Otago, Christhcuch, New Zealand
-Canterbury District Health Board, New Zealand
-Is pharmacogenetics of antidepressant-related metabolic genes applicable to clinical reality of recurrent depression? Diana Pendicheva1, Reni Tzveova2,3, Radka Kaneva2,3, Ivo Duhlenski4
-Medical University-Pleven, Bulgaria
-Molecular Medicine Center, Sofia, Bulgaria
-Medical University-Sofia, Bulgaria
-Diagnostic Consultation Center II, Pleven, Bulgaria
-17:00 to 18:30
 Room Nadir
 SYMPOSIUM
-Therapeutic Drug Monitoring - MS-based approaches at the University Hospital of Vienna Speaker: Thomas Stimpfl, Medical University - General Hospital of Vienna, Austria
-Tuesday 27 June
-Tuesday, 27Tuesday, 27 Tuesday, 27 Tuesday, 27Tuesday, 27 June
+
+### Therapeutic Drug Monitoring - MS-based approaches at the University Hospital of Vienna
+
+- speaker: Thomas Stimpfl, Medical University - General Hospital of Vienna, Austria
+- TDM, LIMS-integration, Immunosuppressants - Cyclosporin A, Everolimus, Sirolimus, Tacrolimus
+- LIMS (Lab info management system)
+- LC-MS (mainly) - non-LC-MS (some)
+- MS-based approach in TDM - expand analytes with random access
+- MS-based clinical research - GLP certification
+- EMA - guideline - lloq, calibration, accurary, precision ...
+
+
 9:00 to 10:30
 Room Meridian
 Rational use of drugs in Europe - what can we learn from cross-national comparisons of drug utilization A symposium dedicated to the late Ludvík Štika
@@ -590,20 +599,20 @@ Department of Public Health, Philadelphia, Pennsylvania, USA
 SMBT Institute of Medical Science and Research Center, Nashik, India
 King Faisal Hospital, Kigali, Rwanda
 Yale University School of Medicine, New Haven, Connecticut, USA
+
 10:30 to 10:45
 Exhibition Area
 COFFEE BREAK
+
 10:45 to 12:00
 Room Meridian
 EACPT scientific award and joint EACPT- EPHAR awards Lifetime educator and young educator awards
 Presentation of winners of EPHAR/EACPT young translational investigation award CLOSING CEREMONY
 Chairs: Tabassome Simon, Ylva Böttiger
 
-
-
+- - -
 
 # Supplemental Information
-
 
 ### ORAL COMMUNICATIONS 1
 
@@ -750,3 +759,36 @@ Once-daily aminoglycosides dosing regimen in paediatric cystic fibrosis (CF) pat
 University Hospital in Motol, 2nd Faculty of Medicine, Charles University, Prague, Czech Republic
 14:00 to 15:30 Room Nadir
 
+
+17:00 to 18:30
+Room Zenit
+ORAL COMMUNICATIONS 5
+Chairs: Milan Grundmann, Edoardo Spina
+Effect of ABCB1 inhibition at the blood-brain barrier on brain distribution of the ABCB1 substrate (r)-[11C]verapamil in elderly versus young subjects Martin Bauer1, Rudolf Karch1, Beatrix Wulkersdorfer1, Wolfgang Wadsak1, Marcus Hacker1, Markus Zeitlinger1, Oliver Langer1,2
+Medical University of Vienna, Austria
+AIT Austrian Institute of Technology GmbH, Austria
+Bioequivalence studies of highly variable drugs - an example of Itraconazole Viktorija Dragojevic-Simic1, Aleksandra Kovacevic1, Nemanja Rancic1, Vesna Jacevic1, Snezana Djordjevic1, Vesna Kilibarda1, Zoran Segrt1, Momir Mikov2
+Military Medical Academy, Belgrade, Serbia
+Institute for Pharmacology, Clinical Pharmacology and Toxicology, Medical Faculty, Novi Sad, Serbia
+Posaconazole tablets versus posaconazole oral suspension in lung transplant patients: Which consequences on immunosuppressive therapy? Elodie Gautier-Veyret1,2,3, Sebastien Chanoine1,3, Hélène Pluchart1,3, Julia Tonini3, Xavier Fonrose3, Christophe Pison1,3, Pierrick Bedouch1,3, Françoise Stanke-Labesque1,2,3
+Monday 26 June
+Univ. Grenoble Alpes, HP2, Grenoble, France
+INSERM U1042, Grenoble, France
+Centre Hospitalier Universitaire des Alpes, Grenoble, France
+Population pharmacodynamic analysis of effect of three increasing doses of fludrocortisone on phenylephrine-mean arterial pressure dose-response relationship in healthy volunteers Karima Hammas1,2, Noureddine Hamitouche1, Clément Palpacuer1,2, Fabrice Lainé1, Eric Bellissant1,2, Bruno Laviolle1,2
+Inserm, CIC 1414 Clinical Investigation Centre, Rennes, France
+Rennes University Hospital, Clinical Pharmacology, Rennes, France
+Results of the population PK modelling of rtxmb83, a rituximab biosimilar candidate in patients with diffuse large B-cell lymphoma (DLBCL) Myrna Candelari1, Derlis Gonzalez2, Marcia Torresan3, Daniel Bar4, Amalia Florez5, Alexandra Paravisini5, Francisco Fernandez5, Susana Millan5
+Instituto Nacional de Cancerología, Tlalpan, Sección XVI, Mexico DF, México
+Instituto Privado de Hematología E Investigación Clínica (IPHIC), Asunción, Paraguay
+Hemocentro da Universidade Estadual de Campinas/ UNICAMP, Campinas, São Paulo, Brazil
+Hospital Iturraspe, Santa Fe, Argentina
+Mabxience
+Evidenced based drug-drug interaction alerts in an e-prescribing system Matthew Doogue1,2, Amanda Crawford1, Hayleigh Miller1, Philip Drennan2, QianYi Chuah2, Matthew Strother1,2, Paul Chin1,2
+University of Otago, Christhcuch, New Zealand
+Canterbury District Health Board, New Zealand
+Is pharmacogenetics of antidepressant-related metabolic genes applicable to clinical reality of recurrent depression? Diana Pendicheva1, Reni Tzveova2,3, Radka Kaneva2,3, Ivo Duhlenski4
+Medical University-Pleven, Bulgaria
+Molecular Medicine Center, Sofia, Bulgaria
+Medical University-Sofia, Bulgaria
+Diagnostic Consultation Center II, Pleven, Bulgaria
