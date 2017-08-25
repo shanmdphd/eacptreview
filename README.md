@@ -1,15 +1,4 @@
-# EACPT 2017
 
-http://www.clinicaltherapeutics.com/issue/S0149-2918(17)X0008-8
-
-## Abstract
-
-2017-06-24 금요일 - 2017-06-27 화요일
-
-프라하에서 열리는 유럽임상약리학회에 다녀왔습니다.
-
-## Young clinical pharmacologists session, 2017-06-24
-> 젊은 임상약리학자들 간의 소통과 교류가 활성화되길 바라며 모든 참가자에게 2018년 말까지 EACPT 멤버십을 발행하였다.
 
 ### Metaanalysis and systematic review
 
